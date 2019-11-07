@@ -1,5 +1,8 @@
 # SizdenGelenler04
 Sıcaklık değeri analizi
+
+![alt text](https://i0.wp.com/saitorhan.com/wp-content/uploads/2019/11/s%C4%B1cakl%C4%B1k-analiz.jpg?w=440 "Resim Açıklaması")
+
 # Soru:
 Meteoroloji merkezi için bir program tasarlanılması istenilmiştir. Programın çalışma şekli
 ise şövle olmalıdır:
